@@ -1,0 +1,328 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/components/AboutUs/BlissHotel.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************/
+.BlissHotel_mainImage__QLNwp {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.BlissHotel_additionalSection__feEjC {
+  background-color: #f8f9fa;
+  padding: 40px 0;
+  width: 100%;
+}
+
+.BlissHotel_bottomSection__uYbBx {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.BlissHotel_leftColumn__mOmZN,
+.BlissHotel_rightColumn__e8Q30,
+.BlissHotel_leaveReview__CSoHZ,
+.BlissHotel_newsletter__ss6ml {
+  flex: 1 1;
+  min-width: 200px;
+  margin: 10px;
+}
+
+.BlissHotel_hotelName__kqeDk {
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.BlissHotel_quickLinks__YVEGW,
+.BlissHotel_company__lTLEt,
+.BlissHotel_reviewTitle__N45Ux,
+.BlissHotel_newsletterTitle__lV7Ma {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.BlissHotel_quickLinkItem__EP6Hj,
+.BlissHotel_companyItem__bHSaO,
+.BlissHotel_reviewItem__m47XA,
+.BlissHotel_newsletterSubtitle__0qRqL {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 5px;
+}
+
+.BlissHotel_newsletterForm__MixDl {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.BlissHotel_newsletterInput__5FdWw {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+}
+
+.BlissHotel_newsletterButton__9F9pZ {
+  background-color: #7c6a46;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  cursor: pointer;
+}
+
+.BlissHotel_newsletterButton__9F9pZ:hover {
+  background-color: #6b5a37;
+}
+
+.BlissHotel_container___K_mZ {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.BlissHotel_navbar__xQ3Ig {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 60px;
+  position: absolute;
+  top: 16px;
+}
+
+.BlissHotel_navLink__2WUpX {
+  margin: 0 20px;
+  color: #7c6a46;
+  font-size: 20px;
+  font-family: Poppins;
+  font-weight: 700;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.BlissHotel_bookNowButton__0esoC {
+  position: absolute;
+  right: 20px;
+  top: 16px;
+  z-index: 10;
+}
+
+.BlissHotel_mainImageBackground__SmYFb {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.BlissHotel_mainImageContent__BOWdX {
+  z-index: 1;
+  text-align: center;
+  color: white;
+  font-size: 60px;
+  font-family: Mulish;
+  font-weight: 800;
+}
+
+.BlissHotel_facilitiesSection__bNFUO {
+  background-color: white;
+  width: 100%;
+  padding: 40px 0;
+  min-height: 800px;
+}
+
+.BlissHotel_facilitiesTitle__Kie_t {
+  color: black;
+  font-size: 40px;
+  font-family: Poppins;
+  font-weight: 500;
+  text-align: center;
+}
+
+.BlissHotel_facilitiesSubtitle__zOjFM {
+  color: black;
+  font-size: 15px;
+  font-family: Poppins;
+  font-weight: 500;
+  text-align: center;
+}
+
+.BlissHotel_facilitiesGrid__1PDG_ {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 40px;
+  gap: 40px;
+  justify-content: center;
+  align-items: center;
+}
+
+.BlissHotel_facilityItem__WHTgt {
+  width: 100%;
+  height: 100%;
+  background: #fafafa;
+  border-radius: 5px;
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.BlissHotel_facilityIcon__EMb6N {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.BlissHotel_facilityName__wyG5S {
+  color: #7c6a46;
+  font-size: 20px;
+  font-family: Poppins;
+  font-weight: 500;
+  text-align: center;
+}
+
+.BlissHotel_additionalSection__feEjC {
+  width: 100%;
+  margin-top: 40px;
+  position: relative;
+  z-index: 1;
+}
+
+.BlissHotel_additionalImage__lP84K {
+  width: 100%;
+  margin-bottom: 20px; /* Add this line to provide space for the bottom section */
+}
+
+.BlissHotel_bottomSection__uYbBx {
+  width: 100%;
+  height: 300px;
+  background-color: #7c6a46;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 40px;
+}
+
+.BlissHotel_leftColumn__mOmZN,
+.BlissHotel_rightColumn__e8Q30,
+.BlissHotel_leaveReview__CSoHZ,
+.BlissHotel_newsletter__ss6ml {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: white;
+}
+
+.BlissHotel_hotelName__kqeDk {
+  font-size: 30px;
+  font-family: Poppins;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.BlissHotel_quickLinks__YVEGW {
+  font-size: 20px;
+  font-family: Poppins;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.BlissHotel_quickLinkItem__EP6Hj {
+  font-size: 15px;
+  font-family: Poppins;
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+.BlissHotel_company__lTLEt {
+  font-size: 20px;
+  font-family: Poppins;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.BlissHotel_companyItem__bHSaO {
+  font-size: 15px;
+  font-family: Poppins;
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+.BlissHotel_reviewTitle__N45Ux {
+  font-size: 20px;
+  font-family: Poppins;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.BlissHotel_reviewItem__m47XA {
+  font-size: 15px;
+  font-family: Poppins;
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+.BlissHotel_newsletterTitle__lV7Ma {
+  font-size: 20px;
+  font-family: Poppins;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.BlissHotel_newsletterSubtitle__0qRqL {
+  font-size: 15px;
+  font-family: Poppins;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+
+.BlissHotel_newsletterForm__MixDl {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.BlissHotel_newsletterInput__5FdWw {
+  width: 70%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #7c6a46;
+  font-size: 14px;
+  font-family: Poppins;
+  font-weight: 300;
+}
+
+.BlissHotel_newsletterButton__9F9pZ {
+  padding: 10px 20px;
+  font-size: 14px;
+  font-family: Poppins;
+  font-weight: 500;
+  background-color: #7c6a46;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
